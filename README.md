@@ -1,4 +1,4 @@
-# Programa de Suma de Dos Números version 1.1.0
+# Programa de Suma de Dos Números version 2.0.0
 
 
 ## Descripción
